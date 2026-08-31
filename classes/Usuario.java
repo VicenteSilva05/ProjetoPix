@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class CadastroUsuario {
+public class Usuario {
 
     static class Conta {
         String nome, telefone, cpf, email, senha;
