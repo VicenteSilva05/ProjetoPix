@@ -1,4 +1,4 @@
-public class ContaBancaria {
+public class ReceberTransferirVal {
     private String agencia;
     private String numeroConta;
     private double saldo;
